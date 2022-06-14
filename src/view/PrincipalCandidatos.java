@@ -9,7 +9,7 @@ public class PrincipalCandidatos {
 	public static void main(String[] args) {
 		Candidato c = new Candidato();
 		c.setId(1);
-		c.setNome("Vitor Alves");
+		c.setNome("Rodrigo Rocha");
 		c.setEnsinoMedioPublico(true);
 		c.setEnsinoSuperiorCompleto(false);
 		c.setAnosRegistroEntidadeClasse(5);
